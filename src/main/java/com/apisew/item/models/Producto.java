@@ -12,6 +12,7 @@ public class Producto implements Serializable {
 	private String nombre;
 	private Double precio;
 	private Date createAt;
+	private Integer port;
 	
 	private static final long serialVersionUID = -6838802470159416320L;
 
